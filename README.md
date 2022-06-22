@@ -91,7 +91,7 @@ If the device has not been detected, make sure you are using a good cable, the t
 - Download [the latest release](https://github.com/mashed-potatoes/PotatoNV/releases) of PotatoNV.
 - Start PotatoNV.
 
-> 💡 All bootloaders are flashing to RAM, so an incorrect bootloader cannot harm the device.
+> 💡 All bootloaders are flashing to ROM, so an incorrect bootloader cannot harm the device.
 
 > 💡 `Disable FBLOCK` checkbox disables a special securtiy check.
 > That modification allows you to flash/erase secure partitions or execute oem commands,
